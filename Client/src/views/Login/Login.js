@@ -171,7 +171,7 @@ function Login(props) {
                                     class='btn btn-info ml-3'
                                     onClick={toggleChangePass}
                                 >
-                                    Quên mật khẩu
+                                    Đổi mật khẩu
                                 </button>
                             </div>
                         </div>
